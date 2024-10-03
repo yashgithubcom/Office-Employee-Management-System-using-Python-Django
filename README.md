@@ -26,10 +26,9 @@ This is an **Employee Management System** built using **Python Django** that kee
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/yashgithubcom/Office-Employee-Management-System-using-Python-Django.git
    cd your-repo
    ```
-
 2. **Install the dependencies**:
    Make sure you have the required dependencies installed by running:
    ```bash
